@@ -1,0 +1,15 @@
+.virtualenvs/
+.venv/
+env/
+venv/
+.Rproj.user/
+*.tsv
+*.csv
+*.gz
+*.tar.gz
+data/
+raw_data/
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
